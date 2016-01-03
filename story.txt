@@ -3,3 +3,5 @@ It is the third of January.
 It is the first Sunday of class
 Tomorrow will be Monday
 Today is Sunday.
+It is the third day of 2016
+2016 will be a leap year
