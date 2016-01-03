@@ -5,3 +5,4 @@ Tomorrow will be Monday
 Today is Sunday.
 It is the third day of 2016
 2016 will be a leap year
+The next leap year will be in 2020
